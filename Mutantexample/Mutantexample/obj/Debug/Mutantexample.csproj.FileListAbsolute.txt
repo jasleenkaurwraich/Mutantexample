@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\bin\Debug\Mutantexample.exe.config
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\bin\Debug\Mutantexample.exe
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\bin\Debug\Mutantexample.pdb
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\bin\Debug\nunit.framework.dll
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\bin\Debug\nunit.framework.xml
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\obj\Debug\Mutantexample.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\obj\Debug\Mutantexample.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\obj\Debug\Mutantexample.csproj.CopyComplete
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\obj\Debug\Mutantexample.exe
+C:\Users\Owner\Desktop\Mutantexample\Mutantexample\obj\Debug\Mutantexample.pdb
